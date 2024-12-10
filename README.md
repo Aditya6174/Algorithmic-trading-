@@ -2,8 +2,6 @@
 
 This repository
 
-## Course Outline
-
 * Section 1: Algorithmic Trading Fundamentals
   * What is Algorithmic Trading?
   * The Differences Between Real-World Algorithmic Trading and This Course
